@@ -1,0 +1,24 @@
+﻿cl : 명령줄  warning D9035: 'Gm' 옵션은 더 이상 사용되지 않으므로 이후 릴리스에서 제거될 예정입니다.
+  virtualLego.cpp
+C:\Users\kweonkiyeong\Desktop\20222663_proj3\d3dUtility.h(23,1): warning C4005: 'INFINITY': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math.h(88): message : 'INFINITY'의 이전 정의를 참조하십시오.
+C:\Users\kweonkiyeong\Desktop\20222663_proj3\virtualLego.cpp(109,18): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kweonkiyeong\Desktop\20222663_proj3\virtualLego.cpp(133,1): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\kweonkiyeong\Desktop\20222663_proj3\virtualLego.cpp(145,1): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\kweonkiyeong\Desktop\20222663_proj3\virtualLego.cpp(147,1): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\kweonkiyeong\Desktop\20222663_proj3\virtualLego.cpp(149,1): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\kweonkiyeong\Desktop\20222663_proj3\virtualLego.cpp(151,1): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\kweonkiyeong\Desktop\20222663_proj3\virtualLego.cpp(175,24): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kweonkiyeong\Desktop\20222663_proj3\virtualLego.cpp(176,24): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kweonkiyeong\Desktop\20222663_proj3\virtualLego.cpp(287,1): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\kweonkiyeong\Desktop\20222663_proj3\virtualLego.cpp(294,30): warning C4305: 'return': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\kweonkiyeong\Desktop\20222663_proj3\virtualLego.cpp(429,78): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\kweonkiyeong\Desktop\20222663_proj3\virtualLego.cpp(595,17): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kweonkiyeong\Desktop\20222663_proj3\virtualLego.cpp(599,108): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kweonkiyeong\Desktop\20222663_proj3\virtualLego.cpp(593,10): warning C4101: 'dy' :참조되지 않은 지역 변수입니다.
+  d3dUtility.cpp
+C:\Users\kweonkiyeong\Desktop\20222663_proj3\d3dUtility.h(23,1): warning C4005: 'INFINITY': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math.h(88): message : 'INFINITY'의 이전 정의를 참조하십시오.
+  코드를 생성하고 있습니다...
+d3dUtility.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/SAFESEH' 사양으로 인해 무시됩니다.
+  VirtualLego.vcxproj -> C:\Users\kweonkiyeong\Desktop\20222663_proj3\Debug\VirtualLego.exe
